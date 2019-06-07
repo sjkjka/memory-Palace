@@ -10,3 +10,10 @@
 ![image](https://github.com/sjkjka/memory-Palace/blob/master/WechatIMG6.jpeg)
 
 ![image](https://github.com/sjkjka/memory-Palace/blob/master/WechatIMG7.jpeg)
+
+
+
+如果你有任何问题 可以通过QQ和邮箱
+QQ:1056200124
+邮箱：155553522658@163.com
+
