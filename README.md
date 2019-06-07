@@ -8,3 +8,5 @@
 三.数字记忆 在短短几秒钟准备记忆一串数组 ,赶紧转动你的脑袋来挑战吧
 
 ![image](https://github.com/sjkjka/memory-Palace/blob/master/WechatIMG6.jpeg)
+
+![image](https://github.com/sjkjka/memory-Palace/blob/master/WechatIMG7.jpeg)
